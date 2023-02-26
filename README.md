@@ -37,6 +37,8 @@ The advantage is that it will not be affected by the instability of chatgpt offi
 2. Run hankeer-chatgpt and set the checkbox button, then typein the session data. pression ok button.
 3. If the message is success, you can use hankeer-chatgpt in your self account.
 
+使用方法：
+
 1. 当你登录 [ChatGPT](chat.openai.com/chat)之后，访问 [session page](https://chat.openai.com/api/auth/session)页面，你就可以拿到session数据。
 2. 运行hankeer-chargpt，然后选中复选框，输入session数据，确认即可。
 3. 如果提示success，你就可以在hankeer-chatgpt中使用自己账号访问ChatGPT了。
